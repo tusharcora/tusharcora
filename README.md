@@ -25,8 +25,6 @@ Here are some ideas to get you started:
   <a href="mailto:tusharcs0112@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 - 🎓 B.S. in **Computer Science & Data Science** from **Rutgers University** (Dec 2025)
