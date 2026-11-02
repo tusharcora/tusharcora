@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Tushar 👋</h1>
+<h1 align="center">Hi, I'm Tushar</h1>
 
 <img src="koi/koi.gif" width="256" alt="My koi" />
 
@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tusharcs">LinkedIn</a> ·
-  <a href="mailto:tusharcs0112@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/tusharcs"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:tusharcs0112@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </p>
 
 ---
@@ -75,12 +75,4 @@ Here are some ideas to get you started:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,github,latex,postman,obsidian&perline=5" alt="Tools" />
   </a>
-</p>
-
-## 📫 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/tusharcs"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:tusharcs0112@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-  <a href="https://github.com/tusharcora"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
