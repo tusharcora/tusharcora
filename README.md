@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi, I'm Tushar</h1>
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
-
 <p align="center">
   AI engineer working at the intersection of software development, cloud infrastructure, agentic workflows, and applied ML.
 </p>
