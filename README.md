@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Tushar</h1>
 
 <p align="center">
-  AI engineer working at the intersection of software development, cloud infrastructure, agentic workflows, and applied ML.
+  Software/AI engineer working at the intersection of software development, cloud infrastructure, agentic workflows, and applied ML.
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🤖 **AI Model Evaluation Fellow** at Handshake AI, building agentic benchmark tasks with deterministic verifiers
 - 💼 Software engineering internships at **Hallmark** and **Fortune Infosys**
 - ☁️ **AWS Certified Cloud Practitioner**
-- 🔎 Looking for AI engineering and ML-adjacent roles
+- 🔎 Looking for Software, AI, and ML-adjacent engineering roles
 
 ## Recent Github Repo Experimentation
 
