@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - **deepseek-ai/deepseek-harness:** Creating and managing plugins for grok bot style agent workflows called the "crew" through creator mode
 - **vercel-labs/agent-desktop:** Integrated with Deepseek Harness for crew agents to all have computer use without screenshots (**reduces tokens about 80% - 90%** from traditional methods)
-- **google-research/harness2:** Applied Google's Harness^2 (Recursive agent harnessing) for crew agents to go through experience, reflection, and improvement loops for repeated tasks (They essentially get better at a tasks the more they do it which this repo is optimized for)
+- **google-research/harness2:** Applied Google's Harness^2 (Recursive agent harnessing) for crew agents to go through experience, reflection, and improvement loops for repeated tasks (They essentially get better at a task the more they do it, and this repo is the most optimized approach)
 
 ## 🛠️ Tech Stack
 
