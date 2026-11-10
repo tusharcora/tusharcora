@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🎓 B.S. in **Computer Science & Data Science** (minor in Business Administration, Cum Laude) from **Rutgers University**
 - 🧠 Pursuing an **M.S. in Computer Science (Machine Learning)** at **Georgia Tech** (OMSCS, 4.0 GPA)
 - 🤖 **AI Model Evaluation Fellow** at Handshake AI, building agentic benchmark tasks with deterministic verifiers
-- 💼 Software engineering internships at **Hallmark** and **Fortune Infosys**
+- 💼 **Software engineering internships** at **Hallmark** and **Fortune Infosys**
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🔎 Looking for Software, AI, and ML-adjacent engineering roles
 
